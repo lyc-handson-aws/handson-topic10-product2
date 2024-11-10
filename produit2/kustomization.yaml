@@ -1,0 +1,8 @@
+commonLabels:
+  yuanchao-handson: topic10
+commonAnnotations:
+  methode: kustomize
+nameSuffix: -produit2
+
+resources:
+ - ../bases
