@@ -7,7 +7,7 @@ metadata:
   name: topicten
 spec:
   # TODO(user): Add fields here
-  image: nginx
+  image: sneal2222/handson-topic10-go:latest
   replicas: 2
   cloudwatcharn: xx
   kmsarn: xx
